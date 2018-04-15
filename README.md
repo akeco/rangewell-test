@@ -1,5 +1,22 @@
 # rangewell-test
 
+### To run project
+1. Install dependencies
+```
+npm install
+```
+2. Run webpack to create bundle js
+```
+npm run webpack
+```
+3. Run dev server
+```
+npm start
+```
+4. Run API server
+```
+npm run start-api-server
+```
 
 Consider an idea/memo board where you can create an idea, edit existing ideas and delete old ideas.
 
